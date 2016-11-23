@@ -1,5 +1,5 @@
-# Netflix-and-Chill
-A database like Netflix have
+# NetBlim
+A database like Netflix has
 ### Requirements:
 ####E-R -> Draw.io
 ####DBMS -> MySQL
